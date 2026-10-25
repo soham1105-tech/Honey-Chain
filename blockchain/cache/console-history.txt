@@ -1,0 +1,15 @@
+.exit
+)
+  await ethers.provider.getBalance(await signer.getAddress())
+ethers.formatEther(
+await signer.getAddress()
+const [signer] = await ethers.getSigners()
+const { ethers } = await network.connect()
+.exit
+const [signer] = await ethers.getSigners()
+await signer.getAddress()
+const { ethers } = await network.connect()
+.exit
+const { ethers } = await network.connect()
+const [signer] = await ethers.getSigners()
+.exit
